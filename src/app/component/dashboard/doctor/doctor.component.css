@@ -1,0 +1,7 @@
+.mat-card-content{
+    color:#3f515b
+}
+.mat-card :hover{
+    transform: scale(1.03);
+
+}
